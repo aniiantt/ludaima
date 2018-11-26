@@ -6,4 +6,4 @@ compose 来自于函数式编程中的概念：函数组合。
 
 `compose(f1, f2, f3)(args)`
 
-本节代码和测试用例来源于 redux 的 compose 函数： https://github.com/reduxjs/redux/blob/master/src/compose.js#L12
+> 本节代码和测试用例来源于 redux 的 compose 函数： https://github.com/reduxjs/redux/blob/master/src/compose.js#L12
