@@ -2,4 +2,4 @@
 
 ## 实用函数
 
-- [compose](./compose/README.md)
+- [compose](./packages/compose/README.md)
