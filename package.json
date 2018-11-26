@@ -6,6 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.1.6",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0",
     "@babel/preset-env": "^7.1.6",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^23.6.0",
@@ -20,6 +21,9 @@
           "useBuiltIns": "entry"
         }
       ]
+    ],
+    "plugins": [
+      "@babel/plugin-syntax-dynamic-import"
     ]
   }
 }
