@@ -7,6 +7,8 @@
 ## 实用函数
 
 - [compose 函数的实现](./packages/compose/README.md)
+- [koa 中间件加载，koa-compose 的实现](./packages/koa-compose/README.md)
+- [只记忆最后一次调用 memoize-one](./packages/memoize-one/README.md)
 
 ## 小型库
 
