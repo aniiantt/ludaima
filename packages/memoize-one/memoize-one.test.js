@@ -557,7 +557,7 @@ describe('memoizeOne', () => {
       expect(result4).toBe(result3);
     });
 
-    it.only('should throw regardless of the type of the thrown value', () => {
+    it('should throw regardless of the type of the thrown value', () => {
       // [JavaScript defines seven built-in types:](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch1.md)
       //    - null
       //    - undefined
